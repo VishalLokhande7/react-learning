@@ -1,16 +1,37 @@
-# React + Vite
+# React Learning
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains my React learning projects and UI practice components.
 
-Currently, two official plugins are available:
+## Amazon Product Cards UI
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+A React component-based product cards interface demonstrating:
 
-## React Compiler
+- Props
+- Components
+- Dynamic Rendering
+- CSS Flexbox
+- Hover Effects
+- Card Styling
+- Reusable Components
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Preview
 
-## Expanding the ESLint configuration
+![Amazon Cards Activity](./screenshots/AmazonCardsActivity.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Technologies Used
+
+- React
+- Vite
+- JavaScript
+- CSS
+
+## Run Locally
+
+```bash
+npm install
+npm run dev
+```
+
+## Author
+
+Vishal Lokhande
